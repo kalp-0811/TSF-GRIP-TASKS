@@ -7,6 +7,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 
 TASKS:
 **Task 01** - Exploring Supervised Machine Learning
+
 **Task 02**- Exploring Unsupervised Machine Learning
 
 Acknowledgments :
